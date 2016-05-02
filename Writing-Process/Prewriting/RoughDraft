@@ -1,40 +1,81 @@
-# rough draft (more like a memorandum)
+TECHNICAL MEMORANDUM
+DATE: April 17, 2014
+TO: HCDE231 Class
+FROM: Xinxin Zhang
+SUBJECT: The effects of 3-D printing on manufacturing 
 
-Impacts of 3D printing on Manufacturing
+Introduction and Background: 
+The world is always under a rapid development of technology. For now, 3-D printing becomes “a revolutionary emerging technology that could up-end the last two centuries of approaches to design and manufacturing with profound geopolitical, economics, social, demographic, environmental, and security implications” (Campbell et al. 1). 
 
-
-3D printing, also known as additive manufacturing (AM), refers to various processes used to synthesize a three-dimensional object. It becomes “a revolutionary emerging technology that could up-end the last two centuries of approaches to design and manufacturing with profound geopolitical, economics, social, demographic, environmental, and security implications” (Campbell et al. 1). 
-
-By applying this new technology, industries reduce the time of producing small batches drastically. However, manufacturing suffers some consequences at the same time. For instance, the localization propertity of 3D printing let people easily produce the products on demands with low costs at home rather than buying them from markets. Consequently, the country like China which highly depends on commercial export will lose a crucial tunnel of making money due to the reduce of demands. 
-
-So, concerning the positive and negative effects that this new technology brings to manufacturing, helps people understand and judge the feasibility of extensively applying 3D printing on manufacturing. 
+Our manufacturing benefits from 3-D printing, for instance, by applying this new technology, the time of producing small batches of products is reduced dramatically. However, manufacturing suffers some consequences at the same time, for example, as 3-D printing has a trend of localization, people can easily produce the products on demands with low costs at home rather than buying them. Thus, the country like China that highly depends on commercial export will lose a crucial tunnel of making money because of the less demands of products. Concerning the positive and negative effects this new technology brings to manufacturing, it is important to consider the feasibility of extensively applying 3-D printing on manufacturing today. That is what I want my readers to think about from this memo. I also hope to encourage my readers to think about some practical solutions to improve this new technology.
 
 Positive Effects:
 •	Mode of Production 
-The traditional manufacturing forms, such as assembly line, assemble and install spare parts separately. This is a “subtractive” process, which carve the raw materials to the desired shape (Ehrenberg 22). By contrast, 3D printing transforms digital information directly to create objects layer-by-layer (adding materials from bottom to top). This assist industries to reduce time of producing products and demand of labors, which in other words, less labors will fininsh the work in less time. So that the efficiency of producing increases and cost of manpower decreases. 
-
+The traditional manufacturing forms, such as assembly line, assemble and install spare parts separately. This is a “subtractive” process, which means to carve the raw materials to the desired shape (Ehrenberg 22). By contrast, 3-D printing transforms digital information directly to create objects layer-by-layer (adding materials from bottom to top). This is Additive Manufacturing (AM). According to this automatically AM, time is minimized and demands of labors are reduced, which will increase the efficiency of producing and will reduce the cost of manpower. So, it is predictable that the low-cost and autonomous AM will finally lead to a globally scaled and customized manufacturing. Just like Berman mentions in his article “According to a former technology and engineering teacher: ‘In the near future, we will have a desktop 3-D printer in our homes that can produce parts for our cars, computer widgets, and toaster knobs. We’ll all have factories in our homes’”(qtd. in Berman 159). If that happens people could enjoy the “real power” of 3-D printing, which is “not making things you can buy, but making things you can’t buy” (Ehrenberg 25). Also, with the increase of the local AM and Local Distribution, supply chains could be simplified and shortened and cost for packaging and shipping will decrease (Campbell et al. 10).
 •	Resources & Environment
-Traditional manufacturing relies on tooling, machinery, computers, robots and manpower to produce objects subtractively and separately. In contrast, AM creates physical parts form bottom to top directly from a standardized digital file (Campbell et al. 5), which design the product mroe streamlined, utilizes the materials sufficiently, reduces material scrap and releasingly harmful chemicals, and cuts dwon the amount of energy used. Additionally, most of the materials that used to produce objects by 3D printing are recyclable. Berman proves that 95% - 98% of waste material can be recycled in 3D printing in his article.
-
+Traditional manufacturing relies on tooling, machinery, computers, robots and manpower to produce objects subtractively and separately. In contrast, AM creates physical parts form bottom to top directly from a standardized digital file (Campbell et al. 5). Through this way, it provides some benefits: 
+•	Reduce material waste and scrap
+•	Limit the amount of energy used 
+•	Use raw materials more efficiently
+•	Release less minimal harmful (e.g., etching) chemicals
+•	Design streamlined
+•	Reduce carbon footprint of a given product (via reduced waste and need for global shipping)
+In addition, most of the materials that used to produce objects by 3-D printing are recyclable. Berman proves that 95% - 98% of waste material can be recycled in 3-D printing in his article.   
 •	Science & Inventions
-Since AM is “producing a finished product, part or tool straight from a computer design” (Reis 16), 3D printing is able to create complex shapes that can not be produced by any other means. In other words, “With 3D printers, the cost of manufacturing Complexity goes to zero. Complexity is now free.” stated by Hod Lipson (qtd. in Ehrenberg 22). Such a huge advantage offers scientists and engineers even greater design flexibility. In fact, a researcher at a Delaware hospital creates a durable ABS-plastic exoskeleton customized to perfectly fit one child, Emma, allowing her to play, explore and hug for the first time (Reis 2). Therefore, 3D printing is already changing the way doctors design prosthetics and is prodding engineers, architects and designers to think differently about the construction and function of car parts, airplanes and even whole buildings (Ehrenberg 22).
-
+Since AM is “producing a finished product, part or tool straight from a computer design” (Reis 16), 3-D printing is able to create complex shapes that can not be produced by any other means. In other words, “With 3-D printers, the cost of manufacturing Complexity goes to zero. Complexity is now free.”---- Hod Lipson (qtd. in Ehrenberg 22). Such a huge advantage offers scientists and engineers even greater design flexibility. In fact, a researcher at a Delaware hospital creates a durable ABS-plastic exoskeleton customized to perfectly fit one child, Emma, allowing her to play, explore and hug for the first time (Reis 2). Therefore, 3-D printing is already changing the way doctors design prosthetics and is prodding engineers, architects and designers to think differently about the construction and function of car parts, airplanes and even whole buildings (Ehrenberg 22).
 Negative Effects:
 •	Economy 
-3D printing has potential to be the mainstream of manufacturing in the future. Because of its high efficiency and less demands on workers, the work opportunities in manufacturing will decline. The workers that such as working on assemble line will lose their jobs easily. Therefore there will be a tremendous growth of the unemployment rates, which will lead to an increase of crime rates (some of the unemployed people may use illegal methods to make money for living) and an imbalance of social economy. In addition, the profits for the countries like China, Japan and Thailand from commercial export will be cut down, with the soaring rates of localization of this technology.
+3-D printing has potential to be the mainstream of manufacturing in the future. Because of its high efficiency and less demands on workers, the work opportunities in manufacturing will decline. The workers that such as working on assemble line will lose their jobs easily. Therefore there will be a tremendous growth of the unemployment rates, which will lead to an increase of crime rates (some of the unemployed people may use illegal methods to make money for living) and an imbalance of social economy. In addition, the profits for the countries like China, Japan and Thailand from commercial export will be cut down, with the soaring rates of localization of this technology.
 
 •	Weapons Manufacturing
-As AM becomes more and more matured, customized and low-cost, weapons manufacturers and terrorists have more opportunities of producing large amount of weapons. What’s worse, they can even design and create more lethal weapons and disguise them easily by applying 3D printing (Campbell et al. 13). Besides, such innovations could make life easier for illicit drug manufacturers as well (Ehrenberg 24). They can produce large amount of illicit drug with lost cost in a short time, which gives them far more profits. 
+As AM becomes more and more matured, customized and low-cost, weapons manufacturers and terrorists have more opportunities of producing large amount of weapons. What’s worse, they can even design and create more lethal weapons and disguise them easily by applying 3-D printing (Campbell et al. 13). Besides, such innovations could make life easier for illicit drug manufacturers as well (Ehrenberg 24). They can produce large amount of illicit drug with lost cost in a short time, which gives them far more profits. 
 
 Conclusion:
-Overall, 3D printing is a distinctive AM process. The proliferation of 3D printing has consequences that go beyond shifts in manufacturing and supply chains (Ehrenberg 24). It dramatically increases the efficiency and reduces the waste materials of producing by making the whole producing process automatic. Also with its strong ability of building the complex shapes, scientists and engineers have much more opportunities of creating. However, there is no denying that AM brings some negative effects. The expansion of AM will lead to a growth of unemployment rate. Moreover, 3D printing makes it a lot simpler to “create makeshift weapons and produce counterfeit drugs”(Ehrenberg 24). Therefor, applying 3D printing is a trade-off issue for manufacturing. However, with the improvement of this technology, 3D printing will potentially become a transformative technology and dominant the future manufacturing. 
+Overall, 3-D printing is a distinctive AM process. The proliferation of 3-D printing has consequences that go beyond shifts in manufacturing and supply chains (Ehrenberg 24). It dramatically increases the efficiency and reduces the waste materials of producing by making the whole producing process automatic. Also with its strong ability of building the complex shapes, scientists and engineers have much more opportunities of creating. However, there is no denying that AM brings some negative effects. The expansion of AM will lead to a growth of unemployment rate. Moreover, 3-D printing makes it a lot simpler to “create makeshift weapons and produce counterfeit drugs”(Ehrenberg 24). Therefor, applying 3-D printing is a trade-off issue for manufacturing. However, with the improvement of this technology, 3-D printing will potentially become a transformative technology and dominant the future manufacturing. 
 
 
-Citations:
-1. Campbell, T., Williams, C., Ivanova, O., & Garrett, B. (2011). Could 3D Printing Change the World?. Technologies, Potential, and Implications of Additive Manufacturing. Washington, DC: Atlantic Council.
 
-2. Berman, B. (2012). 3-D printing: The new industrial revolution. Business Horizons, 55(2), 155-162.
 
-3. Ehrenberg, R. (2013). The 3-D printing revolution: Dreams made real, one layer at a time. science news, 183(5), 20-25.
 
-4 .Reis, D. (2013). The Future of 3D Technology. Mechanical Engineering, 135(2), 16-17.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Work Cited:
+Campbell, T., Williams, C., Ivanova, O., & Garrett, B. (2011). Could 3D Printing Change the World?. Technologies, Potential, and Implications of Additive Manufacturing. Washington, DC: Atlantic Council.
+
+Berman, B. (2012). 3-D printing: The new industrial revolution. Business Horizons, 55(2), 155-162.
+
+Ehrenberg, R. (2013). The 3-D printing revolution: Dreams made real, one layer at a time. science news, 183(5), 20-25.
+
+Reis, D. (2013). The Future of 3D Technology. Mechanical Engineering, 135(2), 16-17.
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+ 
